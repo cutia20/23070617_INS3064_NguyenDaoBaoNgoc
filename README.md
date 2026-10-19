@@ -20,3 +20,10 @@
 - **Deliverables:** `university_queries.sql`, `homework05.zip`
 - **Video Demonstration (Unlisted):** [Watch Homework 05 Video](https://youtu.be/H9MkkqnvReE)
 - **Description:** 10 documented SQL queries executing live on `university_db` covering `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`, `LIKE`, `GROUP BY + HAVING`, and multi-table `JOINs`.
+
+---
+
+## 📌 Homework 06: Bookstore Database Design
+- **Deliverables:** `bookstore_erd.md`, `bookstore_db.sql`, `homework06.zip`
+- **Video Demonstration (Unlisted):** [Watch Homework 06 Video](https://youtu.be/7JXe9gaT_hA)
+- **Description:** Complete 3NF relational database design for an online bookstore featuring 10 tables, composite keys, check constraints, text-based ERD, and realistic sample data.
