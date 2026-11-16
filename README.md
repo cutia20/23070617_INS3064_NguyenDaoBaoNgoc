@@ -27,3 +27,8 @@
 - **Deliverables:** `bookstore_erd.md`, `bookstore_db.sql`, `homework06.zip`
 - **Video Demonstration (Unlisted):** [Watch Homework 06 Video](https://youtu.be/7JXe9gaT_hA)
 - **Description:** Complete 3NF relational database design for an online bookstore featuring 10 tables, composite keys, check constraints, text-based ERD, and realistic sample data.
+
+### 📌 Homework 07: Bookstore Advanced SQL Queries
+* **Deliverables:** `bookstore_queries.sql`, `homework07.zip`
+* **Video Demonstration (Unlisted):** [Watch Homework 07 Video](https://youtu.be/VsBAY0teA7k)
+* **Description:** 10 documented advanced SQL queries executing live on `bookstore_db` covering multi-table `INNER/LEFT JOINs`, `GROUP BY`, `HAVING`, nested subqueries, `CREATE VIEW` (`v_book_sales_summary`), and combined monthly revenue reporting using `UNION ALL` and date functions.
